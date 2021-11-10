@@ -1,6 +1,6 @@
 # raxa_conta
 
-Um novo aplicativo Flutter para dividir a conta.
+App Flutter criado para conhecer fundamentos em um formulário simples.
 
 ## Getting Started
 
